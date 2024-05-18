@@ -1,0 +1,40 @@
+*{
+    background-color: rgb(207, 178, 207);
+    
+}
+.home li{
+display: inline;
+float: left;
+padding-left: 80px;
+}
+li span.col{
+    float: left;
+}
+.para .heading{
+    color: rgb(97, 31, 88);
+    margin-left: 70px;
+
+
+}
+.para .purple{
+    color: rgb(192, 84, 196);
+}
+.para p{
+    margin-left: 70px;
+}
+.para button{
+    margin-left: 70px;
+    width: 180px;
+    height: 40px;
+    background: rgb(87, 32, 138);
+    color: azure;
+}
+.lap img{
+    float: right;
+    margin-top: -300px;
+    width: 900px;
+    height: 600px;
+}
+.para.lap{
+    background: rgb(207, 178, 207);
+}
